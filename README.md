@@ -6,10 +6,6 @@
 ![GUI](https://img.shields.io/badge/UI-Tkinter%20%2F%20CLI-green)
 ![TTS](https://img.shields.io/badge/Audio-PyAudio%20%2F%20pyttsx3-purple)
 
-<p align="center">
-  <img src="preview.jpg" alt="Miu Desktop Preview" width="100%" />
-</p>
-
 AI-powered natural language desktop interface and voice assistant for the **Miu Robot**.
 
 > [!NOTE]
